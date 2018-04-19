@@ -2,9 +2,14 @@
   "name": "latex-online",
   "main": "./lib/latex-online",
   "author": "Janne Spijkervet <janne.spijkervet@hotmail.com>",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "LaTex Online atom package",
-  "keywords": ["latex", "atom", "online", "compiler"],
+  "keywords": [
+    "latex",
+    "atom",
+    "online",
+    "compiler"
+  ],
   "activationCommands": {
     "atom-workspace": "latex-online:fetch"
   },
