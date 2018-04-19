@@ -1,14 +1,14 @@
 {
   "name": "latex-online",
   "main": "./lib/latex-online",
-  "version": "0.0.0",
+  "author": "Janne Spijkervet <janne.spijkervet@hotmail.com>",
+  "version": "1.0.0",
   "description": "LaTex Online atom package",
-  "keywords": [],
+  "keywords": ["latex", "atom", "online", "compiler"],
   "activationCommands": {
     "atom-workspace": "latex-online:fetch"
   },
   "repository": "https://github.com/Spijkervet/atom-latex-online/",
-  "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
