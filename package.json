@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "latex-online:fetch"
   },
-  "repository": "https://github.com/Spijkervet/atom-latex-online/",
+  "repository": "git://github.com/spijkervet/atom-latex-online",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
