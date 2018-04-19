@@ -2,7 +2,7 @@
   "name": "latex-online",
   "main": "./lib/latex-online",
   "author": "Janne Spijkervet <janne.spijkervet@hotmail.com>",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "LaTex Online atom package",
   "keywords": [
     "latex",
