@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Export .tex file",
+        "command": "latex-online:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "latex-online",
+          "submenu": [
+            {
+              "label": "Export .tex file",
+              "command": "latex-online:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
